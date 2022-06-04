@@ -409,7 +409,7 @@ Abilities:
           Wall:
             Radius: 4
           Wave:
-            Radius: 45
+            Radius: 20
         Torrent:
           InitialDamage: 6
           SuccessiveDamage: 1.5
@@ -690,8 +690,8 @@ Abilities:
     Surge:
       Enabled: true
       Wave:
-        Radius: 5
-        Range: 40
+        Radius: 3
+        Range: 20
         SelectRange: 12
         Knockback: 1
         Knockup: 0.2
