@@ -313,9 +313,9 @@ Abilities:
           MaxDistance: 80
           Cooldown: 0
         LavaFlow:
-          ShiftCooldown: 400
-          ClickLavaCooldown: 400
-          ClickLandCooldown: 400
+          ShiftCooldown: 1500
+          ClickLavaCooldown: 1500
+          ClickLandCooldown: 1500
           ShiftPlatformRadius: 2
           ClickRadius: 10
           ShiftRadius: 12
@@ -489,7 +489,7 @@ Abilities:
       AngleTheta: 10
     AirScooter:
       Enabled: true
-      ShowSitting: true
+      ShowSitting: false
       Speed: 0.675
       Interval: 100
       Radius: 1
@@ -605,7 +605,7 @@ Abilities:
         Cooldown: 0
         Duration: 0
         SpeedFactor: 0.7
-        AllowWaterArms: true
+        AllowWaterArms: false
       Hydrosink:
         Enabled: true
     Bloodbending:
@@ -678,12 +678,12 @@ Abilities:
       Enabled: true
       SourceRange: 7
       Freeze:
-        Cooldown: 0
+        Cooldown: 500
         Radius: 3
         Depth: 4
         ControlRadius: 25
       Melt:
-        Cooldown: 0
+        Cooldown: 2000
         Speed: 8.0
         Radius: 7
         AllowFlow: true
@@ -743,9 +743,9 @@ Abilities:
       Arms:
         InitialLength: 4
         SourceGrabRange: 12
-        MaxAttacks: 100
-        MaxAlternateUsage: 500
-        MaxIceShots: 80
+        MaxAttacks: 10
+        MaxAlternateUsage: 50
+        MaxIceShots: 8
         Cooldown: 0
         AllowPlantSource: true
         Lightning:
