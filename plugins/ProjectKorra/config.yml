@@ -489,21 +489,21 @@ Abilities:
       AngleTheta: 10
     AirScooter:
       Enabled: true
-      ShowSitting: false
+      ShowSitting: true
       Speed: 0.675
       Interval: 100
       Radius: 1
-      Cooldown: 7000
+      Cooldown: 3000
       Duration: 0
-      MaxHeightFromGround: 7
+      MaxHeightFromGround: 8
     AirShield:
       Enabled: true
       Cooldown: 0
       Duration: 0
       MaxRadius: 7
       InitialRadius: 1
-      Streams: 5
-      Speed: 10
+      Streams: 8
+      Speed: 15
       Particles: 5
       DynamicCooldown: false
     AirSpout:
@@ -528,12 +528,12 @@ Abilities:
       Enabled: true
       Damage: 2
       Range: 14
-      Radius: 0.5
+      Radius: 1
       Push: 0.5
-      Arc: 16
+      Arc: 24
       Speed: 25
       Cooldown: 1500
-      ChargeFactor: 3
+      ChargeFactor: 5
       MaxChargeTime: 2500
       Particles: 3
       StepSize: 4
@@ -584,12 +584,12 @@ Abilities:
       HeightPerParticle: 1.25
     AirStream:
       Enabled: true
-      Speed: 0.5
+      Speed: 0.8
       Range: 40
       EntityCarry:
-        Duration: 4000
-        Height: 14
-      Cooldown: 7000
+        Duration: 10000
+        Height: 40
+      Cooldown: 3000
     AirSweep:
       Enabled: true
       Speed: 1.4

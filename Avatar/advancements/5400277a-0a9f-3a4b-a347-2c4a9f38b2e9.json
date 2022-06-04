@@ -23,11 +23,35 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-06-04 04:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2022-06-04 04:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-06-03 22:54:50 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2022-06-04 04:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2022-06-04 04:27:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
@@ -37,7 +61,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2022-06-04 04:52:14 +0000",
+      "minecraft:birch_forest": "2022-06-04 04:30:36 +0000",
       "minecraft:river": "2022-06-03 22:54:50 +0000",
+      "minecraft:birch_forest_hills": "2022-06-04 04:59:45 +0000",
       "minecraft:plains": "2022-06-03 22:51:19 +0000"
     },
     "done": false

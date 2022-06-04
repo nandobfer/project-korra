@@ -1,3 +1,145 @@
 [00:04:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
 [00:34:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
 [01:04:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[01:34:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[02:04:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[02:34:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[03:04:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[03:34:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[04:04:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[04:11:21] [User Authenticator #1/INFO]: UUID of player alucin0geno is c2e47cd9-15f6-3bcb-97ed-8e405fb172a2
+[04:11:22] [Server thread/INFO]: alucin0geno[/138.204.26.174:21951] logged in with entity id 358 at ([Avatar]-2.835021483925167, 69.0, -350.97682357500025)
+[04:13:13] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirBlast 1
+[04:13:21] [Server thread/INFO]: alucin0geno issued server command: /bend bind Air
+[04:13:28] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirBurst 2
+[04:13:35] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirScooter 3
+[04:13:42] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirShield 4
+[04:14:14] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirSpout 5
+[04:14:21] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirSuction 6
+[04:14:28] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirSwipe 7
+[04:14:53] [Server thread/INFO]: alucin0geno issued server command: /bend bind Suffocate 8
+[04:15:16] [Server thread/INFO]: alucin0geno issued server command: /bend bind Tornado 9
+[04:15:57] [Server thread/INFO]: alucin0geno issued server command: /gamerule doWeatherCycle false
+[04:15:57] [Server thread/INFO]: [alucin0geno: Gamerule doWeatherCycle is now set to: false]
+[04:16:06] [Server thread/INFO]: alucin0geno issued server command: /weather clear
+[04:16:06] [Server thread/INFO]: [alucin0geno: Set the weather to clear]
+[04:16:20] [Server thread/INFO]: alucin0geno issued server command: /bend help AirBlast
+[04:23:48] [User Authenticator #2/INFO]: UUID of player HamBurgos is 5400277a-0a9f-3a4b-a347-2c4a9f38b2e9
+[04:23:48] [Server thread/INFO]: HamBurgos[/138.204.26.174:35346] logged in with entity id 2032 at ([Avatar]-47.24812143450691, 64.0, -82.82557705754995)
+[04:24:04] [Server thread/INFO]: HamBurgos issued server command: /bending choose Water
+[04:24:17] [Server thread/INFO]: HamBurgos issued server command: /bending bind Surge
+[04:25:00] [Server thread/INFO]: HamBurgos issued server command: /bending bind Torrent 2
+[04:25:21] [Server thread/INFO]: alucin0geno was slain by Zombie
+[04:26:00] [Server thread/INFO]: alucin0geno issued server command: /tp HamBurgos
+[04:26:00] [Server thread/INFO]: [alucin0geno: Teleported alucin0geno to HamBurgos]
+[04:26:08] [Server thread/INFO]: alucin0geno issued server command: /time set day
+[04:26:08] [Server thread/INFO]: [alucin0geno: Set the time to 1000]
+[04:27:28] [Server thread/INFO]: HamBurgos issued server command: /bending bind WaterManipulation
+[04:27:33] [Server thread/INFO]: alucin0geno issued server command: /gamerule doMobSpawning false
+[04:27:33] [Server thread/INFO]: [alucin0geno: Gamerule doMobSpawning is now set to: false]
+[04:27:36] [Server thread/INFO]: HamBurgos has made the advancement [Monster Hunter]
+[04:28:29] [Server thread/INFO]: HamBurgos issued server command: /bending bind IceBlast 2
+[04:28:37] [Server thread/INFO]: HamBurgos issued server command: /bending help IceBlast
+[04:28:44] [Server thread/INFO]: alucin0geno issued server command: /kill @e[type=!minecraft:player]
+[04:28:44] [Server thread/INFO]: [alucin0geno: Killed 270 entities]
+[04:28:53] [Server thread/INFO]: alucin0geno issued server command: /tp HamBurgos
+[04:28:53] [Server thread/INFO]: [alucin0geno: Teleported alucin0geno to HamBurgos]
+[04:28:56] [Server thread/INFO]: alucin0geno issued server command: /kill @e[type=!minecraft:player]
+[04:28:56] [Server thread/INFO]: [alucin0geno: Killed 334 entities]
+[04:28:57] [Server thread/INFO]: HamBurgos issued server command: /bending bind PhaseChange 4
+[04:29:00] [Server thread/INFO]: alucin0geno issued server command: /kill @e[type=!minecraft:player]
+[04:29:29] [Server thread/INFO]: HamBurgos issued server command: /bending bind Torrent 3
+[04:29:31] [Server thread/INFO]: alucin0geno issued server command: /gamerule doDaylightCycle false
+[04:29:31] [Server thread/INFO]: [alucin0geno: Gamerule doDaylightCycle is now set to: false]
+[04:30:02] [Server thread/INFO]: alucin0geno issued server command: /bend help AirBlast
+[04:30:18] [Server thread/INFO]: HamBurgos issued server command: /bending help ice
+[04:30:21] [Server thread/INFO]: HamBurgos issued server command: /bending help IceBullet
+[04:30:55] [Server thread/INFO]: HamBurgos issued server command: /bending bind WaterBubble 5
+[04:31:04] [Server thread/INFO]: alucin0geno issued server command: /bend help AirBurst
+[04:31:47] [Server thread/INFO]: alucin0geno issued server command: /tp HamBurgos
+[04:31:47] [Server thread/INFO]: [alucin0geno: Teleported alucin0geno to HamBurgos]
+[04:33:03] [Server thread/INFO]: alucin0geno issued server command: /gamemode spectator
+[04:33:03] [Server thread/INFO]: [alucin0geno: Set own game mode to Spectator Mode]
+[04:33:11] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:33:11] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:33:18] [Server thread/INFO]: alucin0geno issued server command: /gamemode spectator
+[04:33:18] [Server thread/INFO]: [alucin0geno: Set own game mode to Spectator Mode]
+[04:33:25] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:33:25] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:33:35] [Server thread/INFO]: alucin0geno issued server command: /gamemode spectator
+[04:33:35] [Server thread/INFO]: [alucin0geno: Set own game mode to Spectator Mode]
+[04:33:41] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:33:41] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:33:53] [Server thread/INFO]: alucin0geno issued server command: /gamemode spectator
+[04:33:53] [Server thread/INFO]: [alucin0geno: Set own game mode to Spectator Mode]
+[04:33:56] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:33:56] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:34:03] [Server thread/INFO]: alucin0geno issued server command: /gamemode spectator
+[04:34:03] [Server thread/INFO]: [alucin0geno: Set own game mode to Spectator Mode]
+[04:34:06] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:34:06] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:34:17] [Server thread/INFO]: alucin0geno issued server command: /gamemode spectator
+[04:34:17] [Server thread/INFO]: [alucin0geno: Set own game mode to Spectator Mode]
+[04:34:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[04:34:26] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:34:26] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:35:10] [Server thread/INFO]: alucin0geno issued server command: /bend help AirScooter
+[04:35:38] [Server thread/INFO]: alucin0geno issued server command: /gamemode spectator
+[04:35:38] [Server thread/INFO]: [alucin0geno: Set own game mode to Spectator Mode]
+[04:35:48] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:35:48] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:35:56] [Server thread/INFO]: alucin0geno issued server command: /gamemode spectator
+[04:35:56] [Server thread/INFO]: [alucin0geno: Set own game mode to Spectator Mode]
+[04:36:04] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:36:04] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:36:19] [Server thread/INFO]: HamBurgos issued server command: /bending bind IceSpike 6
+[04:37:46] [Server thread/INFO]: alucin0geno was impaled by HamBurgos's IceSpike
+[04:37:57] [Server thread/INFO]: alucin0geno issued server command: /tp HamBurgos
+[04:37:57] [Server thread/INFO]: [alucin0geno: Teleported alucin0geno to HamBurgos]
+[04:38:04] [Server thread/WARN]: alucin0geno moved wrongly!
+[04:38:20] [Server thread/INFO]: alucin0geno issued server command: /bend help AirShield
+[04:39:21] [Server thread/INFO]: HamBurgos issued server command: /bending bind WaterSpout 7
+[04:40:28] [Server thread/INFO]: alucin0geno issued server command: /gamemode creative
+[04:40:28] [Server thread/INFO]: [alucin0geno: Set own game mode to Creative Mode]
+[04:41:23] [Server thread/INFO]: alucin0geno issued server command: /bend help AirSpout
+[04:41:39] [Server thread/INFO]: HamBurgos issued server command: /bending help WaterSpout
+[04:42:43] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:43] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:43] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:43] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:46] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:46] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:46] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:46] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:46] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:46] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:42:47] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:44:29] [Server thread/INFO]: alucin0geno issued server command: /gamemode survival
+[04:44:29] [Server thread/INFO]: [alucin0geno: Set own game mode to Survival Mode]
+[04:44:49] [Server thread/INFO]: alucin0geno issued server command: /bend help AirSuction
+[04:47:46] [Server thread/INFO]: HamBurgos fell from a high place
+[04:48:09] [Server thread/INFO]: alucin0geno issued server command: /op HamBurgos
+[04:48:09] [Server thread/INFO]: [alucin0geno: Made HamBurgos a server operator]
+[04:48:18] [Server thread/INFO]: HamBurgos issued server command: /teleport HamBurgos alucin0geno
+[04:48:18] [Server thread/INFO]: [HamBurgos: Teleported HamBurgos to alucin0geno]
+[04:50:01] [Server thread/INFO]: HamBurgos issued server command: /bending help hydrosink
+[04:50:02] [Server thread/INFO]: alucin0geno issued server command: /bend help AirSweep 9
+[04:50:08] [Server thread/INFO]: alucin0geno issued server command: /bend help AirSwipe
+[04:51:05] [Server thread/WARN]: HamBurgos moved wrongly!
+[04:52:26] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirSweep 9
+[04:52:56] [Server thread/INFO]: alucin0geno issued server command: /bend help Suffocate
+[04:53:53] [Server thread/INFO]: alucin0geno issued server command: /bend help Tornado
+[04:55:30] [Server thread/INFO]: alucin0geno suffocated in a wall
+[04:55:44] [Server thread/INFO]: HamBurgos was asphyxiated by alucin0geno's Suffocate
+[04:56:42] [Server thread/INFO]: alucin0geno issued server command: /bend display AirCombos
+[04:57:09] [Server thread/INFO]: alucin0geno issued server command: /bend help AirStream
+[04:57:31] [Server thread/INFO]: HamBurgos issued server command: /bending help plantbending
+[04:57:38] [Server thread/INFO]: HamBurgos issued server command: /bending display Plantbending
+[04:57:45] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirShield 2
+[04:57:52] [Server thread/INFO]: HamBurgos issued server command: /bending display plantpassives
+[04:57:53] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirBurst 4
+[04:58:23] [Server thread/INFO]: alucin0geno issued server command: /bend bind AirSuction 3
+[05:00:07] [Server thread/INFO]: alucin0geno issued server command: /gamerule doMobSpawning true
+[05:00:07] [Server thread/INFO]: [alucin0geno: Gamerule doMobSpawning is now set to: true]
+[05:04:24] [Server thread/INFO]: [0;33;22mThis server is running ProjectKorra version 1.9.3 for bending! Find out more at http://www.projectkorra.com![m
+[05:04:37] [Thread-2/INFO]: Stopping server
