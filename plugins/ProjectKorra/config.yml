@@ -409,12 +409,12 @@ Abilities:
           Wall:
             Radius: 4
           Wave:
-            Radius: 30
+            Radius: 45
         Torrent:
           InitialDamage: 6
           SuccessiveDamage: 1.5
           MaxHits: 10
-          Push: 4
+          Push: 5
         WaterManipulation:
           Damage: 5
         IceBlast:
@@ -690,13 +690,13 @@ Abilities:
     Surge:
       Enabled: true
       Wave:
-        Radius: 3
-        Range: 20
+        Radius: 5
+        Range: 40
         SelectRange: 12
         Knockback: 1
         Knockup: 0.2
         MaxFreezeRadius: 7
-        Cooldown: 0
+        Cooldown: 500
         Interval: 30
         SolidifyLava:
           Enabled: true
@@ -808,7 +808,7 @@ Abilities:
         Click: 0
       Radius: 4.0
       Speed: 0.5
-      ClickDuration: 2000
+      ClickDuration: 5000
       MustStartAboveWater: false
     WaterManipulation:
       Enabled: true
@@ -839,7 +839,7 @@ Abilities:
         ChargeTime: 500
         FlightDuration: 5000
         Speed: 1.3
-        Cooldown: 6000
+        Cooldown: 0
     IceWave:
       Enabled: true
       Damage: 3
@@ -856,7 +856,7 @@ Abilities:
       AnimationSpeed: 1
       ShootTime: 10000
       Cooldown: 0
-      ShotCooldown: 500
+      ShotCooldown: 50
   Earth:
     Passive:
       Duration: 2500
