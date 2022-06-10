@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/schuster/minecraftserver/spigot17/plugins/ProjectKorra-1.9.3.jar" sourcepath="/home/schuster/Documents/code/projectkorra/ProjectKorra">
+	<classpathentry kind="lib" path="C:/Users/Burgos/Documents/GitHub/project-korra/plugins/ProjectKorra-1.9.3.jar" sourcepath="C:/Users/Burgos/Documents/GitHub/project-korra/ProjectKorra-API">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/schuster/minecraftserver/spigot17/spigot-1.17.1.jar" sourcepath="/home/schuster/Documents/code/projectkorra/Spigot/Spigot-API">
+	<classpathentry kind="lib" path="C:/Users/Burgos/Documents/GitHub/project-korra/spigot-1.17.1.jar" sourcepath="C:/Users/Burgos/Documents/GitHub/project-korra/Spigot-API">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Burgos/Downloads/abilities/Geyser PK 1.8.9.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
